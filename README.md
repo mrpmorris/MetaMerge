@@ -1,6 +1,9 @@
 # MetaMerge.Fody
 ![](./Images/MetaMerge-Logo.png)
 
+[![NuGet version](https://img.shields.io/nuget/v/MetaMerge.Fody.svg)](https://www.nuget.org/packages/MetaMerge.Fody)
+[![NuGet downloads](https://img.shields.io/nuget/dt/MetaMerge.Fody.svg)](https://www.nuget.org/packages/MetaMerge.Fody)
+
 ## Introduction
 ***MetaMerge*** allows you to create patterns of .net attributes and
 apply them to multiple targets.
